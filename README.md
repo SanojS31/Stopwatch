@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgastopwatch.ccbp.tech/](https://durgastopwatch.ccbp.tech/)🔗
+## **_Website_**:[https://stopwatch-beta-tawny.vercel.app/](https://stopwatch-beta-tawny.vercel.app/)🔗
 
 
 In this project, let's build a **Stopwatch** by applying the concepts we have learned till now.
